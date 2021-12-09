@@ -103,4 +103,4 @@ Largura máxima de um cartão desktop: `256px`
 Altura mínima de um cartão: `320px`
 
 
-![Layout](/img/desktop.PNG)
+![Layout](/assets/img/desktop.PNG)
